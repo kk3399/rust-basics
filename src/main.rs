@@ -1,5 +1,5 @@
-mod vectors;
+mod guess_game;
 
 fn main() {
-    vectors::run();
+    guess_game::run();
 }
